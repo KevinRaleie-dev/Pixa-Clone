@@ -5,6 +5,7 @@ import ImageSearch from './components/ImageSearch';
 
 function App() {
 
+
   const [images, setImages] = useState([]);
 
   // once done fetcing the images, set to false
